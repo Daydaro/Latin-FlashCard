@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Latin-FlashCard/static/css/main.7b2d2d43.css",
+    "main.js": "/Latin-FlashCard/static/js/main.04b3406f.js",
+    "static/js/787.a6a859a7.chunk.js": "/Latin-FlashCard/static/js/787.a6a859a7.chunk.js",
+    "index.html": "/Latin-FlashCard/index.html",
+    "main.7b2d2d43.css.map": "/Latin-FlashCard/static/css/main.7b2d2d43.css.map",
+    "main.04b3406f.js.map": "/Latin-FlashCard/static/js/main.04b3406f.js.map",
+    "787.a6a859a7.chunk.js.map": "/Latin-FlashCard/static/js/787.a6a859a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2d2d43.css",
+    "static/js/main.04b3406f.js"
+  ]
+}
